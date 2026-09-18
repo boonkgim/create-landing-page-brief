@@ -1,6 +1,7 @@
 ---
 name: create-landing-page-brief
 description: Interview the user one question at a time, then write a high-conversion landing page copy brief (copy only, no layout). Use when the user wants a landing page brief, sales page copy, or website copy plan.
+license: MIT
 ---
 
 # Create Landing Page Brief
